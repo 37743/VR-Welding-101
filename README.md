@@ -30,17 +30,22 @@ Welding 101 is a XR training simulation that offers a safe, cost-effective way t
     `adb install path/to/your_app.apk`
 11. All done!
 
-## Features
-
-- Coming Soon!
-  
-## Screenshot Preview
+## Features & Preview
 <div align="center">
 
 | ![Welding Work-in-progress](https://github.com/user-attachments/assets/e656ae3f-347a-4d41-9d3c-37906dce3d50)|
 |:---:|
 | Procedural Welding Simulation (Marching Cubes Algorithm) |
 
+</div>
+
+<div align="center">
+
+| ![Environment Work-in-progress](https://github.com/user-attachments/assets/5d9ce370-6aba-4868-ab22-c4ed9f861d96)|
+|:---:|
+| Detailed AI-powered Environment and Physics |
+
+...and more! (WORK IN PROGRESS)
 </div>
 
 ## Video Preview
